@@ -8,3 +8,4 @@ const test1 = "test branch second chang 2"
 
 
 const name ="jay sean"
+const name2 = "rajesh kumar"
