@@ -6,3 +6,4 @@ const cmmd = "second chagne"
 
 
 const s = "fc"
+const c = "sc"
