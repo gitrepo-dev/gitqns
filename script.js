@@ -8,3 +8,4 @@ const pre2 = "pre chagne 2 33"
 
 
 const name = "jay"
+const name2 = "rajesh"
