@@ -5,3 +5,6 @@ let b = 1011222
 
 const prec = "pre chagne 1"
 const pre2 = "pre chagne 2 33"
+
+
+const name = "jay"
